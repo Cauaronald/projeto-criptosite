@@ -14,7 +14,8 @@
     padding: 0px;
 }
 body{
-    background-image: url(imgs/bitcoin-crypto-currency.jpg);
+    background: black url(imgs/bitcoin-crypto-currency.jpg) center center no-repeat fixed;
+    background-size: cover;
     text-align: justify;
     
 
